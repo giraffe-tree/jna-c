@@ -1,0 +1,11 @@
+﻿LIBRARY JNA
+EXPORTS 
+	max @1
+	testArray @2
+	testStruct @3
+	getBool @4
+	printUser @5
+	printUserRef @6
+
+
+
